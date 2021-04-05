@@ -1,0 +1,4 @@
+Cork City Hall«Cork City«true
+Munster Technological University«Bishopstown«true
+Pairc Ui Chaoimh«Ballintemple«false
+Mallow GAA«Mallow«false

@@ -1,0 +1,2 @@
+Jane Doe«false«true«false«false«true«Diabetes«UNDER REVIEW
+Sean O'Mahony«false«true«true«false«true«asthma«PENDING

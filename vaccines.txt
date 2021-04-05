@@ -1,0 +1,4 @@
+Moderna (mRNA-1273)«mRNA-1273 is a novel lipid nanoparticle (LNP)-encapsulated mRNA-based vaccine that encodes for a full-length, prefusion stabilized spike (S) protein of SARS-CoV-2.«+2 to +8 degrees«31/06/2021«1500
+Pfizer/BioNTech (Comirnaty)«Comirnaty contains a molecule called messenger RNA (mRNA) with instructions for producing a protein from SARS-CoV-2, the virus that causes COVID-19.«-25 to -15 degrees«31/06/2021«5000
+AstraZeneca (AZD1222)«Consists of a replication-deficient chimpanzee adenoviral vector ChAdOx1, containing the SARS-CoV-2 structural surface glycoprotein antigen (spike protein; nCoV-19) gene«+2 to +8 degrees«31/06/2021«1250
+Janssen (Ad26.COV2.S)«Ad26.COV2.S, is a recombinant, replication-incompetent adenovirus serotype 26 (Ad26) vector encoding a full-length and stabilized SARS-CoV-2 spike protein«+2 to +8 degrees«N/A«0
