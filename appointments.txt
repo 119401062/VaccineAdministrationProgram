@@ -1,0 +1,4 @@
+john.doe@gmail.com«John Doe«2021-03-15«15:00«Mallow GAA«Pfizer/BioNTech (Comirnaty)«1«false«VACCINE DOSE ASSIGNED
+seano@hotmail.com«Sean O'Mahony«2021-02-28«11:00«Pairc Ui Chaoimh«Moderna (mRNA-1273)«2«false«VACCINE ADMINISTERED
+jane.doe@gmail.com«Jane Doe«2021-03-17«10:00«Munster Technological University«null«2«true«CANCELLED
+jane.doe@gmail.com«Jane Doe«2021-03-31«10:00«Pairc Ui Chaoimh«null«1«false«SCHEDULED
